@@ -1,62 +1,82 @@
 Geometri,Latitude,Longitude,City,Biaya,21-Dec-19,22-Dec-19,23-Dec-19,24-Dec-19,25-Dec-19,26-Dec-19,27-Dec-19,28-Dec-19
-northeast,0.048731193,1.71974636,Tao Silalahi hotel,IDR -,24,26,27,27,27,26,27,26
-northeast,0.046310398,1.717087221,"""Sicike-cike"" Nature Park",IDR -,24,26,27,27,27,26,27,26
+northeast,0.048731193,1.71974636,Tao Silalahi hotel, IDR -   ,24,26,27,27,27,26,27,26
+northeast,0.046310398,1.717087221,"""Sicike-cike"" Nature Park", IDR -   ,24,26,27,27,27,26,27,26
 northeast,0.047703319,1.717084841,"Taman Wisata Iman Sitinjo, Dairi"," IDR 300,000.00 ",23,25,26,26,26,25,26,26
 northeast,0.047753283,1.717110206,Air Terjun Jembatan Lae Pendaroh," IDR 20,000.00 ",23,25,26,26,26,25,26,26
 northeast,0.047098899,1.715782844,Peak Tree House Sidikalang," IDR 762,300.00 ",23,25,26,26,26,25,26,26
 northeast,0.049115081,1.719664538,Tugu Marga Silalahi," IDR 10,000.00 ",23,25,26,26,26,25,26,26
-northeast,0.048230385,1.719760219,Aek Sipaulak Hosa Loja,IDR -,23,25,26,26,26,25,26,26
+northeast,0.048230385,1.719760219,Aek Sipaulak Hosa Loja, IDR -   ,23,25,26,26,26,25,26,26
 northeast,0.04790114,1.715924279,Taman Rekreasi," IDR 5,000.00 ",23,25,26,26,26,25,26,26
 northeast,0.045584093,1.716540561,Air Terjun Lae Mbilulu," IDR 20,000.00 ",23,25,26,26,26,25,26,26
 northeast,0.049679065,1.719673266,Pulau Paropo," IDR 5,000.00 ",26,26,27,27,28,26,27,27
-northeast,0.047712005,1.717128331,Parks Faith,IDR -,26,26,27,27,28,26,27,27
-northeast,0.048045375,1.71588377,Gedung Nasional Djauli Manik,IDR -,26,26,27,27,28,26,27,27
+northeast,0.047712005,1.717128331,Parks Faith, IDR -   ,26,26,27,27,28,26,27,27
+northeast,0.048045375,1.71588377,Gedung Nasional Djauli Manik, IDR -   ,26,26,27,27,28,26,27,27
 northeast,0.04789231,1.716962955,Taman Wisata Iman," IDR 5,000.00 ",23,25,26,26,26,25,26,26
 northeast,0.050616881,1.71934596,Bukit Gajah Bobok," IDR 25,000.00 ",21,21,23,23,23,22,23,22
 northeast,0.047706601,1.717086709,Bukit Golgata TWI Sitinjo," IDR 5,000.00 ",21,21,23,23,23,22,23,22
 northeast,0.049678653,1.719661124,Perkemahan Paropo," IDR 5,000.00 ",26,26,27,27,28,26,27,27
-northeast,0.040674517,1.725829221,Sipinsur Park Geosite and Pine Forest,IDR -,22,24,25,24,25,24,24,24
+northeast,0.040674517,1.725829221,Sipinsur Park Geosite and Pine Forest, IDR -   ,22,24,25,24,25,24,24,24
 northeast,0.041217633,1.724694724,Air Terjun Janji," IDR 5,000.00 ",24,26,27,26,27,26,26,26
-northeast,0.04030653,1.724514136,Tombak Sulusulu,IDR -,24,26,27,26,27,26,26,26
+northeast,0.04030653,1.724514136,Tombak Sulusulu, IDR -   ,24,26,27,26,27,26,26,26
 northeast,0.037252787,1.7189864,Air Terjun Sipulak," IDR 50,000.00 ",23,24,25,25,24,25,25,26
 northeast,0.037291995,1.719963827,Air Terjun Pollung," IDR 15,000.00 ",25,25,26,26,26,26,26,27
-northeast,0.041006571,1.71788964,Air Terjun Sibabo,IDR -,25,25,26,26,26,26,26,27
-northeast,0.039656276,1.71949687,Air Terjun Simolap,IDR -,27,29,31,30,30,29,30,30
+northeast,0.041006571,1.71788964,Air Terjun Sibabo, IDR -   ,25,25,26,26,26,26,26,27
+northeast,0.039656276,1.71949687,Air Terjun Simolap, IDR -   ,27,29,31,30,30,29,30,30
 northeast,0.040143404,1.724333427,Air Terjun Sitiotio," IDR 5,000.00 ",26,27,26,27,27,27,27,27
 northeast,0.040585945,1.725215553,Aek Sipangolu Bakkara," IDR 5,000.00 ",24,26,27,26,27,26,26,26
 northeast,0.039155977,1.724309264,Bukit Inspirasi," IDR 5,000.00 ",24,26,27,26,27,26,26,26
-northeast,0.04080646,1.724705805,Panatapan Sileme-leme,IDR -,24,26,27,26,27,26,26,26
+northeast,0.04080646,1.724705805,Panatapan Sileme-leme, IDR -   ,24,26,27,26,27,26,26,26
 northeast,0.042266395,1.723974848,Tempat Permandian," IDR 60,000.00 ",24,26,27,26,27,26,26,26
 northeast,0.040023397,1.725808843,Simpang Masuk Sipincur," IDR 5,000.00 ",22,24,25,24,25,24,24,24
 northeast,0.038620995,1.719916979,objek wisata baronjong aek sirahar," IDR 20,000.00 ",23,24,24,24,24,24,25,26
 northeast,0.038519638,1.719729742,Saba Napa," IDR 50,000.00 ",23,24,24,24,24,24,25,26
 northeast,0.040264306,1.724626882,Istana Makam Raja Sisingamangaraja," IDR 7,000.00 ",23,24,24,24,24,24,25,26
-northeast,0.040510171,1.724861807,BATU HUNDUL-HUNDULAN,IDR -,25,26,27,27,27,27,27,27
-northeast,0.04052172,1.724871248,HARIARA TUNGKOT,IDR -,25,26,27,27,27,27,27,27
+northeast,0.040510171,1.724861807,BATU HUNDUL-HUNDULAN, IDR -   ,25,26,27,27,27,27,27,27
+northeast,0.04052172,1.724871248,HARIARA TUNGKOT, IDR -   ,25,26,27,27,27,27,27,27
 northeast,0.040424268,1.727554401,Bukit Doa," IDR 20,000.00 ",25,26,27,27,27,27,27,27
 northeast,0.040757571,1.726441267,Muara Nauli," IDR 5,000.00 ",29,29,29,30,29,29,30,31
 northeast,0.056594098,1.719816573,Air Terjun Sikulikap," IDR 30,000.00 ",21,22,23,23,24,22,27,23
-northeast,0.055825303,1.719885141,Taman Alam Lumbini,IDR -,19,22,23,23,23,22,22,23
+northeast,0.055825303,1.719885141,Taman Alam Lumbini, IDR -   ,19,22,23,23,23,22,22,23
 northeast,0.055747437,1.719196068,"Gundaling Hill, Berastagi"," IDR 5,000.00 ",20,21,23,22,23,22,23,23
-northeast,0.055793968,1.719319535,Pasar Buah Berastagi,IDR -,20,21,23,22,23,22,23,23
+northeast,0.055793968,1.719319535,Pasar Buah Berastagi, IDR -   ,20,21,23,22,23,22,23,23
 northeast,0.056349159,1.719847676,LAU SIDEBUK DEBUK," IDR 100,000.00 ",21,22,24,23,24,23,24,24
 northeast,0.050929668,1.719505114,Air Terjun Sipiso Piso," IDR 25,000.00 ",22,23,26,25,26,24,25,25
 northeast,0.055933661,1.719620445,Mikie Funland," IDR 100,000.00 ",20,21,23,22,23,22,23,23
-northeast,0.055856692,1.717125618,Danau Lau Kawar," IDR 2,500.00 ",21,21,23,22,23,22,23,23
-northeast,0.056906815,1.719408425,Two Colors Waterfall,IDR -,21,22,23,23,24,22,23,23
-northeast,0.055781672,1.719316433,Museum Pusaka Karo - Berastagi,IDR -,21,22,23,23,24,22,23,23
+northeast,0.055856692,1.717125618,Danau Lau Kawar," IDR 25,000.00 ",21,21,23,22,23,22,23,23
+northeast,0.056906815,1.719408425,Two Colors Waterfall, IDR -   ,21,22,23,23,24,22,23,23
+northeast,0.055781672,1.719316433,Museum Pusaka Karo - Berastagi, IDR -   ,21,22,23,23,24,22,23,23
 northeast,0.05583173,1.719383301,Bukit Kubu Berastagi," IDR 100,000.00 ",20,21,23,22,23,22,23,23
-northeast,0.056349509,1.719848612,TWA Lau Debuk-debuk,IDR -,20,21,23,22,23,22,23,23
+northeast,0.056349509,1.719848612,TWA Lau Debuk-debuk, IDR -   ,20,21,23,22,23,22,23,23
 northeast,0.053970449,1.71676479,Air Soda Kabupaten Karo," IDR 20,000.00 ",25,26,28,28,28,27,28,28
-northeast,0.055810116,1.719875974,Replika Pagoda Shwedagon,IDR -,25,26,28,28,28,27,28,28
+northeast,0.055810116,1.719875974,Replika Pagoda Shwedagon, IDR -   ,25,26,28,28,28,27,28,28
 northeast,0.050616881,1.71934596,Bukit Gajah Bobok," IDR 25,000.00 ",21,22,24,24,24,22,23,23
-northeast,0.050816247,1.719513163,Sapo Juma,IDR -,22,23,26,25,26,24,25,25
+northeast,0.050816247,1.719513163,Sapo Juma, IDR -   ,22,23,26,25,26,24,25,25
 northeast,0.055997292,1.719830682,TAHURA (Taman Hutan Raya)," IDR 15,000.00 ",22,23,26,25,26,24,25,25
 northeast,0.050840757,1.719492941,Taman bunga Sapo Juma," IDR 20,000.00 ",22,23,26,25,26,24,25,25
 northeast,0.055731824,1.719215517,Puncak Gundaling Brastagi," IDR 100,000.00 ",20,21,23,22,23,22,23,23
-northeast,0.052771055,1.717386945,"Puncak Pelangkah Gading, Kutambaru, Munte, Kab. Karo, Sumut",IDR -,20,21,23,22,23,22,23,23
+northeast,0.052771055,1.717386945,"Puncak Pelangkah Gading, Kutambaru, Munte, Kab. Karo, Sumut", IDR -   ,20,21,23,22,23,22,23,23
 northeast,0.047059303,1.722485318,Pasir putih Parbaba," IDR 10,000.00 ",24,26,27,24,27,26,27,26
-northeast,0.044329843,1.721701975,Efrata Waterfall,IDR -,22,23,25,24,24,24,24,24
+northeast,0.044329843,1.721701975,Efrata Waterfall, IDR -   ,22,23,25,24,24,24,24,24
+northeast,0.044200289,1.72264525,Bukit Holbung Samosir," IDR 5,000.00 ",23,24,26,25,26,25,26,25
+northeast,0.04419266,1.723255594,Pemandian Air Panas Rianiate," IDR 5,000.00 ",24,26,27,27,27,26,27,26
+northeast,0.045728658,1.722236556,SAMTO AEK RANGAT," IDR 5,000.00 ",24,26,27,27,27,26,27,26
+northeast,0.044565743,1.721612717,Menara Pandang Tele Samosir," IDR 7,000.00 ",24,26,27,27,27,26,27,26
+northeast,0.046287776,1.725459449,Batak Museum," IDR 10,000.00 ",24,26,27,27,27,26,27,26
+northeast,0.048195976,1.723097697,Pantai Batu Hoda (Batu Hoda Beach)," IDR 140,000.00 ",24,26,27,27,27,26,27,26
+northeast,0.045231468,1.72142494,Batu Hobon," IDR 5,000.00 ",22,24,25,25,25,24,25,25
+northeast,0.046306771,1.725469086,Pertunjukan Tari SIGALE GALE," IDR 5,000.00 ",22,24,25,25,25,24,25,25
+northeast,0.045474702,1.725596906,Batu marhosa," IDR 120,000.00 ",21,23,24,24,24,23,24,24
+northeast,0.045318658,1.721723549,Batu Sawan," IDR 5,000.00 ",21,23,24,24,24,23,24,24
+northeast,0.045581033,1.725533314,AIR TERJUN SIGARATTUNG ( Sampuran Na Pitu)," IDR 5,000.00 ",21,23,24,24,24,23,24,24
+northeast,0.046470724,1.725224597,Bukit Beta Tuk-tuk," IDR 10,000.00 ",24,26,27,27,27,27,27,27
+northeast,0.045225718,1.721345803,Hadabuan Naisogop Waterfalls," IDR 15,000.00 ",24,26,27,27,27,27,27,27
+northeast,0.045608002,1.725155946,Botanical Samosir," IDR 25,000.00 ",21,22,23,23,23,23,23,23
+northeast,0.047110341,1.722490432,Pantai Indah Situngkir (PIS), IDR -   ,21,22,23,23,23,23,23,23
+northeast,0.046781271,1.72504416,Batu Kursi Raja Siallagan ( Stone Chair of King Siallagan )," IDR 5,000.00 ",25,27,28,28,28,27,28,28
+northeast,0.045705458,1.725665659,Parhallow viewpoint and coffee shop," IDR 350,000.00 ",25,27,28,28,28,27,28,28
+northeast,0.04805666,1.723438057,Museum Huta Bolon Simanindo, IDR -   ,25,27,28,28,28,27,28,28
+northeast,0.047059303,1.722485318,Pasir putih Parbaba," IDR 10,000.00 ",24,26,27,24,27,26,27,26
+northeast,0.044329843,1.721701975,Efrata Waterfall, IDR -   ,22,23,25,24,24,24,24,24
 northeast,0.044200289,1.72264525,Bukit Holbung Samosir," IDR 5,000.00 ",23,24,26,25,26,25,26,25
 northeast,0.04419266,1.723255594,Pemandian Air Panas Rianiate," IDR 5,000.00 ",24,26,27,27,27,26,27,26
 northeast,0.045728658,1.722236556,SAMTO AEK RANGAT," IDR 5,000.00 ",24,26,27,27,27,26,27,26
@@ -71,87 +91,67 @@ northeast,0.045581033,1.725533314,AIR TERJUN SIGARATTUNG ( Sampuran Na Pitu)," I
 northeast,0.046470724,1.725224597,Bukit Beta Tuk-tuk," IDR 100,000.00 ",24,26,27,27,27,27,27,27
 northeast,0.045225718,1.721345803,Hadabuan Naisogop Waterfalls," IDR 15,000.00 ",24,26,27,27,27,27,27,27
 northeast,0.045608002,1.725155946,Botanical Samosir," IDR 25,000.00 ",21,22,23,23,23,23,23,23
-northeast,0.047110341,1.722490432,Pantai Indah Situngkir (PIS),IDR -,21,22,23,23,23,23,23,23
+northeast,0.047110341,1.722490432,Pantai Indah Situngkir (PIS), IDR -   ,21,22,23,23,23,23,23,23
 northeast,0.046781271,1.72504416,Batu Kursi Raja Siallagan ( Stone Chair of King Siallagan )," IDR 5,000.00 ",25,27,28,28,28,27,28,28
 northeast,0.045705458,1.725665659,Parhallow viewpoint and coffee shop," IDR 350,000.00 ",25,27,28,28,28,27,28,28
-northeast,0.04805666,1.723438057,Museum Huta Bolon Simanindo,IDR -,25,27,28,28,28,27,28,28
-northeast,0.047059303,1.722485318,Pasir putih Parbaba," IDR 10,000.00 ",24,26,27,24,27,26,27,26
-northeast,0.044329843,1.721701975,Efrata Waterfall,IDR -,22,23,25,24,24,24,24,24
-northeast,0.044200289,1.72264525,Bukit Holbung Samosir," IDR 5,000.00 ",23,24,26,25,26,25,26,25
-northeast,0.04419266,1.723255594,Pemandian Air Panas Rianiate," IDR 5,000.00 ",24,26,27,27,27,26,27,26
-northeast,0.045728658,1.722236556,SAMTO AEK RANGAT," IDR 5,000.00 ",24,26,27,27,27,26,27,26
-northeast,0.044565743,1.721612717,Menara Pandang Tele Samosir," IDR 7,000.00 ",24,26,27,27,27,26,27,26
-northeast,0.046287776,1.725459449,Batak Museum," IDR 10,000.00 ",24,26,27,27,27,26,27,26
-northeast,0.048195976,1.723097697,Pantai Batu Hoda (Batu Hoda Beach)," IDR 140,000.00 ",24,26,27,27,27,26,27,26
-northeast,0.045231468,1.72142494,Batu Hobon," IDR 5,000.00 ",22,24,25,25,25,24,25,25
-northeast,0.046306771,1.725469086,Pertunjukan Tari SIGALE GALE," IDR 5,000.00 ",22,24,25,25,25,24,25,25
-northeast,0.045474702,1.725596906,Batu marhosa," IDR 120,000.00 ",21,23,24,24,24,23,24,24
-northeast,0.045318658,1.721723549,Batu Sawan," IDR 5,000.00 ",21,23,24,24,24,23,24,24
-northeast,0.045581033,1.725533314,AIR TERJUN SIGARATTUNG ( Sampuran Na Pitu)," IDR 5,000.00 ",21,23,24,24,24,23,24,24
-northeast,0.046470724,1.725224597,Bukit Beta Tuk-tuk," IDR 100,000.00 ",24,26,27,27,27,27,27,27
-northeast,0.045225718,1.721345803,Hadabuan Naisogop Waterfalls," IDR 15,000.00 ",24,26,27,27,27,27,27,27
-northeast,0.045608002,1.725155946,Botanical Samosir," IDR 25,000.00 ",21,22,23,23,23,23,23,23
-northeast,0.047110341,1.722490432,Pantai Indah Situngkir (PIS),IDR -,21,22,23,23,23,23,23,23
-northeast,0.046781271,1.72504416,Batu Kursi Raja Siallagan ( Stone Chair of King Siallagan )," IDR 5,000.00 ",25,27,28,28,28,27,28,28
-northeast,0.045705458,1.725665659,Parhallow viewpoint and coffee shop," IDR 350,000.00 ",25,27,28,28,28,27,28,28
-northeast,0.04805666,1.723438057,Museum Huta Bolon Simanindo,IDR -,25,27,28,28,28,27,28,28
+northeast,0.04805666,1.723438057,Museum Huta Bolon Simanindo, IDR -   ,25,27,28,28,28,27,28,28
 northeast,0.050027259,1.726518387,Bah Damanik," IDR 7,000.00 ",24,25,27,26,26,25,26,26
 northeast,0.054991663,1.724200379,Kawah Putih Dolok Tinggi Raja," IDR 5,000.00 ",26,28,30,29,30,28,29,29
-northeast,0.048878117,1.724124637,Garoga Beach,IDR -,24,26,27,27,27,26,27,26
-northeast,0.054397128,1.731778076,Tangkahan Bah Alip,IDR -,24,26,27,27,27,26,27,26
+northeast,0.048878117,1.724124637,Garoga Beach, IDR -   ,24,26,27,27,27,26,27,26
+northeast,0.054397128,1.731778076,Tangkahan Bah Alip, IDR -   ,24,26,27,27,27,26,27,26
 northeast,0.0499463,1.731796741,Katasa Waterfall," IDR 15,000.00 ",28,29,31,31,31,29,29,30
 northeast,0.046598395,1.726800833,Free beach Parapat Lake Toba," IDR 14,000.00 ",25,26,27,26,27,27,27,27
 northeast,0.049345181,1.728532104,Manigom Nauli," IDR 5,000.00 ",26,27,28,28,28,27,27,27
 northeast,0.046864989,1.726608826,Danau Toba Parapat," IDR 5,000.00 ",24,27,28,28,28,27,28,28
 northeast,0.051853008,1.730841664,Pemandian Alam Sejuk Pas," IDR 20,000.00 ",28,29,31,31,31,29,30,30
-northeast,0.050030148,1.726518823,Aek Manik,IDR -,24,25,27,26,26,25,26,26
+northeast,0.050030148,1.726518823,Aek Manik, IDR -   ,24,25,27,26,26,25,26,26
 northeast,0.04949862,1.726095926,Air Terjun Bah Biak Sidamanik," IDR 10,000.00 ",24,26,27,27,27,27,27,27
 northeast,0.053758215,1.729282278,Bah Salak Waterfall," IDR 3,500.00 ",28,29,31,31,31,29,30,30
 northeast,0.051619382,1.724529232,Air Terjun Tarak Nionggang," IDR 5,000.00 ",23,25,26,26,26,26,26,26
-northeast,0.054203662,1.726621074,Wisata Bah Kulistik,IDR -,23,25,26,26,26,26,26,26
-northeast,0.047021225,1.726622783,Taman Wisata Kera Sibaganding,IDR -,25,27,28,28,28,27,28,28
+northeast,0.054203662,1.726621074,Wisata Bah Kulistik, IDR -   ,23,25,26,26,26,26,26,26
+northeast,0.047021225,1.726622783,Taman Wisata Kera Sibaganding, IDR -   ,25,27,28,28,28,27,28,28
 northeast,0.047463613,1.730331628,Niagara sipitu Tikka," IDR 5,000.00 ",25,27,28,28,28,27,28,28
 northeast,0.049876455,1.726290954,"Kebun Teh Bahbutong, Sidamanik"," IDR 10,000.00 ",23,25,26,27,27,25,26,26
 northeast,0.051053574,1.719793386,Bukit Gundul (bukit sipiso-piso)," IDR 15,000.00 ",18,21,22,22,22,21,22,22
 northeast,0.048672982,1.724508836,Objek Wisata Pantai Paris," IDR 5,000.00 ",22,24,25,25,25,24,24,25
-northeast,0.049717341,1.726621475,Sidamanik Rice Field,IDR -,23,25,26,27,27,25,26,26
+northeast,0.049717341,1.726621475,Sidamanik Rice Field, IDR -   ,23,25,26,27,27,25,26,26
 northeast,0.035166367,1.72795438,Cross of Love," IDR 10,000.00 ",22,23,24,24,23,23,24,24
 northeast,0.036241127,1.726918079,Lokasi Wisata Pemandian Air Panas Sipoholon," IDR 5,000.00 ",22,23,24,24,23,23,24,24
 northeast,0.040424268,1.727554401,Bukit Doa," IDR 20,000.00 ",21,21,22,23,23,22,22,22
 northeast,0.040851939,1.726894265,Tugu Toga Aritonang," IDR 5,000.00 ",23,25,26,27,27,26,26,26
-northeast,0.035353314,1.72724355,SOPO PARTUNGKOAN,IDR -,24,25,26,26,25,25,26,27
+northeast,0.035353314,1.72724355,SOPO PARTUNGKOAN, IDR -   ,24,25,26,26,25,25,26,27
 northeast,0.040757571,1.726441267,Muara Nauli," IDR 5,000.00 ",29,28,29,30,29,29,30,31
 northeast,0.036279094,1.726846135,Pemandian Air Panas Lehu," IDR 5,000.00 ",24,25,26,26,25,25,26,27
-northeast,0.03543474,1.727509388,Air Panas Hutabarat,IDR -,24,25,26,26,25,25,26,27
+northeast,0.03543474,1.727509388,Air Panas Hutabarat, IDR -   ,24,25,26,26,25,25,26,27
 northeast,0.034937503,1.727304688,Pemandian Air Soda," IDR 7,000.00 ",24,25,26,26,25,25,26,27
 northeast,0.03544994,1.727544543,Thermal Baths U.S.K Hineni," IDR 8,000.00 ",23,23,24,25,25,25,24,24
-northeast,0.040674517,1.725829221,Sipinsur Park Geosite and Pine Forest,IDR -,23,23,24,25,25,25,24,24
+northeast,0.040674517,1.725829221,Sipinsur Park Geosite and Pine Forest, IDR -   ,23,23,24,25,25,25,24,24
 northeast,0.036266385,1.726945295,Air Panas Sipoholon," IDR 5,000.00 ",22,23,24,24,23,23,23,23
 northeast,0.035247708,1.72792406,Salib Kasih," IDR 5,000.00 ",19,23,24,24,23,23,23,24
 northeast,0.035170559,1.727953509,Salib Kasih Tarutung," IDR 4,000.00 ",19,23,24,24,23,23,23,24
-northeast,0.030327507,1.725168585,PLTA Sipansihaporas,IDR -,23,25,26,27,27,26,26,26
+northeast,0.030327507,1.725168585,PLTA Sipansihaporas, IDR -   ,23,25,26,27,27,26,26,26
 northeast,0.040585945,1.725215553,Aek Sipangolu Bakkara," IDR 2,000.00 ",23,25,26,27,27,26,26,26
 northeast,0.029450718,1.726957922,Air Terjun Sipitu-pitu," IDR 5,000.00 ",23,25,26,27,27,26,26,26
-northeast,0.04085552,1.728126487,Pakkodian,IDR -,22,24,26,26,26,26,26,26
-northeast,0.030210015,1.724871241,Air Terjun Sihobuk,IDR -,22,24,26,26,26,26,26,26
+northeast,0.04085552,1.728126487,Pakkodian, IDR -   ,22,24,26,26,26,26,26,26
+northeast,0.030210015,1.724871241,Air Terjun Sihobuk, IDR -   ,22,24,26,26,26,26,26,26
 northeast,0.040815118,1.726259031,Pasar Muara," IDR 5,000.00 ",22,24,26,26,26,26,26,26
 northeast,0.035166367,1.72795438,Cross of Love," IDR 10,000.00 ",22,23,24,24,23,23,24,24
 northeast,0.036241127,1.726918079,Lokasi Wisata Pemandian Air Panas Sipoholon," IDR 5,000.00 ",22,23,24,24,23,23,24,24
 northeast,0.040424268,1.727554401,Bukit Doa," IDR 20,000.00 ",21,21,22,23,23,22,22,22
 northeast,0.040851939,1.726894265,Tugu Toga Aritonang," IDR 5,000.00 ",23,25,26,27,27,26,26,26
-northeast,0.035353314,1.72724355,SOPO PARTUNGKOAN,IDR -,24,25,26,26,25,25,26,27
+northeast,0.035353314,1.72724355,SOPO PARTUNGKOAN, IDR -   ,24,25,26,26,25,25,26,27
 northeast,0.040757571,1.726441267,Muara Nauli," IDR 5,000.00 ",29,28,29,30,29,29,30,31
 northeast,0.036279094,1.726846135,Pemandian Air Panas Lehu," IDR 5,000.00 ",24,25,26,26,25,25,26,27
-northeast,0.03543474,1.727509388,Air Panas Hutabarat,IDR -,24,25,26,26,25,25,26,27
+northeast,0.03543474,1.727509388,Air Panas Hutabarat, IDR -   ,24,25,26,26,25,25,26,27
 northeast,0.034937503,1.727304688,Pemandian Air Soda," IDR 7,000.00 ",24,25,26,26,25,25,26,27
 northeast,0.03544994,1.727544543,Thermal Baths U.S.K Hineni," IDR 8,000.00 ",23,23,24,25,25,25,24,24
-northeast,0.040674517,1.725829221,Sipinsur Park Geosite and Pine Forest,IDR -,23,23,24,25,25,25,24,24
+northeast,0.040674517,1.725829221,Sipinsur Park Geosite and Pine Forest, IDR -   ,23,23,24,25,25,25,24,24
 northeast,0.036266385,1.726945295,Air Panas Sipoholon," IDR 5,000.00 ",22,23,24,24,23,23,23,23
 northeast,0.035247708,1.72792406,Salib Kasih," IDR 5,000.00 ",19,23,24,24,23,23,23,24
 northeast,0.035170559,1.727953509,Salib Kasih Tarutung," IDR 4,000.00 ",19,23,24,24,23,23,23,24
-northeast,0.030327507,1.725168585,PLTA Sipansihaporas,IDR -,23,25,26,27,27,26,26,26
+northeast,0.030327507,1.725168585,PLTA Sipansihaporas, IDR -   ,23,25,26,27,27,26,26,26
 northeast,0.040585945,1.725215553,Aek Sipangolu Bakkara," IDR 2,000.00 ",23,25,26,27,27,26,26,26
 northeast,0.029450718,1.726957922,Air Terjun Sipitu-pitu," IDR 5,000.00 ",23,25,26,27,27,26,26,26
-northeast,0.04085552,1.728126487,Pakkodian,IDR -,22,24,26,26,26,26,26,26
-northeast,0.030210015,1.724871241,Air Terjun Sihobuk,IDR -,22,24,26,26,26,26,26,26
+northeast,0.04085552,1.728126487,Pakkodian, IDR -   ,22,24,26,26,26,26,26,26
+northeast,0.030210015,1.724871241,Air Terjun Sihobuk, IDR -   ,22,24,26,26,26,26,26,26
 northeast,0.040815118,1.726259031,Pasar Muara," IDR 5,000.00 ",22,24,26,26,26,26,26,26
